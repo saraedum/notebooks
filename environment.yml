@@ -1,0 +1,10 @@
+name: binder
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - cysignals
+  - notebook
+  - boost-cpp
+  - normaliz
